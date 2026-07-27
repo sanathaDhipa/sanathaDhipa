@@ -9,17 +9,6 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3500&pause=1000&color=3FF7A8&background=FF5DEF00&center=true&vCenter=true&width=500&lines=Computer+Science+Student;" alt="Typing SVG" />
     </a>
 </p>
-<!-- <h2> 💫About Me </h2>
-
-- 🎓 I'm currently studying Computer Science at the Bina Nusantara University.
-
-- 📝 I have a strong interest in Artificial Intelligence
-
-- 🌱 Currently learning **Computer vision & Deep Learning**
-
-- 🤔 I’m currently open for <b>An Intern</b>😊
-
-- Feel free to look into my <a href="https://drive.google.com/file/d/1-B6QFv6w089KU-dK4laOobomPmAY1pJ1/view?usp=sharing" target="_blank">CV</a> -->
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack</h2>
 
